@@ -12,10 +12,16 @@ QA Analyst transitioning to become a Software Developer. With experience in seve
 Social Media Page (Bootcamp Project)
 The project is designed to emulate a web page. This communicates via API calls with the bootcamps server to store all changes made by the user. The design is adaptive to all screen sizes and utilizes form validation to ensure valid user inputs.
 
+![alt text](https://github.com/MiguelElu/MiguelElu.github.io/blob/main/Screenshot%202025-11-24%20193837.png)
+
 Link: [https://github.com/MiguelElu/web_project_around](https://github.com/MiguelElu/web_project_around)
 
 Adaptive Single Page Website  (Bootcamp Project)
 The project is a website that uses several HTML/CSS components to create a design that adapts to different screen sizes.
+
+![alt text](https://github.com/MiguelElu/MiguelElu.github.io/blob/main/Screenshot%202025-11-24%20193939.png)
+
+![alt text](https://github.com/MiguelElu/MiguelElu.github.io/blob/main/Screenshot%202025-11-24%20194001.png)
 
 Link: [https://github.com/MiguelElu/web_project_homeland](https://github.com/MiguelElu/web_project_homeland)
 
